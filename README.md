@@ -26,7 +26,9 @@ Contributions, suggestions, and feedback are always welcome!
 Visit our websites [www.phinit.de](https://www.phinit.de) or [www.psscripts.de](https://www.psscripts.de)!  
 Please open an issue or submit a pull request if you have ideas or improvements.
 
-=========================================== =========================================== =========================================== ===========================================
+
+===================================================================================
+
 
 # Repository von **www.phinit.de** bzw. **www.psscripts.de** 
 
